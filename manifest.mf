@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: pae.team8.flickrminr.App
+SplashScreen-Image: fm_splash.png
+
